@@ -1,9 +1,11 @@
-
+import css from './TechSkills.module.css'
 
 const TechSkills = () => {
     return (
         <div>
-            <ul>
+            <h2>TECH SKILLS</h2>
+
+            <ul className={css.tech_container}>
                 <li>HTML5/CSS</li>
                 <li>Responsive/Adaptive design</li>
                 <li>GIT</li>
