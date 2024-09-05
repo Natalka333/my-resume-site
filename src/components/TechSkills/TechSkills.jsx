@@ -13,6 +13,8 @@ const TechSkills = () => {
                 <li>React</li>
                 <li>Redux</li>
                 <li>REST API</li>
+                <li>VITE</li>
+                <li>Vercel</li>
                 <li>Webpack</li>
                 <li>Parcel</li>
                 <li>Node.js</li>

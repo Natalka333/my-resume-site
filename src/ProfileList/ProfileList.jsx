@@ -3,8 +3,8 @@
 const ProfileList = () => {
     return (
         <div className="name-title">
-            <h1>Natalia Trehubenko</h1>
-            <h3>Junior Front-end developer</h3>
+            <h2>Natalia Trehubenko</h2>
+            <p>Junior Front-end developer</p>
         </div>
     )
 }

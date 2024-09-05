@@ -1,12 +1,15 @@
-
+import css from './Education.module.css'
 
 const Education = () => {
     return (
-        <div>
+        <>
             <h3>IT School GoIT</h3>
-            <p>2023-2024</p>
-            <p>Fullstack Developer</p>
-        </div>
+            <div>
+                <p className={css.education}>2023-2024</p>
+                <p className={css.education}>Fullstack Developer</p>
+            </div>
+        </>
+
     )
 }
 
