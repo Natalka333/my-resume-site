@@ -7,7 +7,7 @@ const Contacts = () => {
             <h2>CONTACTS</h2>
             <p>(098)-752-80-50</p>
             <p>nataly.111.0479@gmail.com</p>
-            <p>Kharkov, Ukraine</p>
+            <p>Kharkiv, Ukraine</p>
             <a href="https://github.com/Natalka333" target="_blank" rel="noopener noreferrer"><FaGithub /> GitHub</a>
 
             <a href="https://t.me/Nata04666" target="_blank" rel="noopener noreferrer"><FaTelegram /> Telegram</a>

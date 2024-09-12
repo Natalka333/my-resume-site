@@ -6,7 +6,7 @@ const ProjectExperience = () => {
             <h2>PROJECT EXPERIENCE</h2>
             <div className={css.project}>
                 <a href="https://natalka333.github.io/goit-markup-hw-07/" target="_blank" rel="noopener noreferrer">
-                    <b>WebStudio</b>
+                    <b>WebStudio</b>, Link
                 </a>
                 <p>
                     [HTML, CSS]</p>
@@ -17,7 +17,7 @@ const ProjectExperience = () => {
                 </p>
 
                 <a href="https://natalka333.github.io/goit-js-hw-11/" target="_blank" rel="noopener noreferrer">
-                    <b>Gallery images</b>
+                    <b>Gallery images</b>, Link
                 </a>
                 <p>
                     [ Java Script, HTML, CSS, Parcel, Pixabay API, Notiflix, SimpleLightbox]
@@ -29,7 +29,7 @@ const ProjectExperience = () => {
                 </p>
 
                 <a href="https://goit-react-hw-05-gamma-beryl.vercel.app/" target="_blank" rel="noopener noreferrer">
-                    <b>Filmoteka</b>
+                    <b>Filmoteka</b>, Link
                 </a>
                 <p>
                     [ React, React Router,REST API, VITE, React.lazy, Suspense,CSS Modules]
@@ -41,7 +41,7 @@ const ProjectExperience = () => {
                 </p>
 
                 <a href="https://goit-react-hw-08-beta-umber.vercel.app/" target="_blank" rel="noopener noreferrer">
-                    <b>Phonebook</b>
+                    <b>Phonebook</b>, Link
                 </a>
                 <p>
                     [ React, React Router, Redux , Redux Persist, JWT, API, VITE, React.lazy, Suspense,CSS Modules, Formik, React Hot Toast,]
