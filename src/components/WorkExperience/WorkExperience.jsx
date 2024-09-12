@@ -10,15 +10,18 @@ const WorkExperience = () => {
                 <li>Task planning and monitoring</li>
                 <li></li>
             </ul>
-            <p> <b>Achiement:</b> 100% положительные отзывы от наших клиентов</p>
+            <p> <b>Achiement:</b> 100% positive feedback from our clients
+            </p>
 
             <h3>Logistician</h3>
             <ul className={css.experience}>
-                <li>Оформление документов</li>
-                <li>Сопровождение поставки</li>
-                <li>Соблюдение сроков доставки</li>
+                <li>Execution of documents</li>
+                <li>Delivery support
+                </li>
+                <li>Compliance with delivery deadlines</li>
             </ul>
-            <p> <b>Achiement:</b> Соблюдение сроков доставки груза.</p>
+            <p> <b>Achiement:</b> Compliance with cargo delivery deadlines
+                .</p>
 
         </div>
     )
