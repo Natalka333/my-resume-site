@@ -5,6 +5,7 @@ const Contacts = () => {
     return (
         <div className={css.contacts_conteiner}>
             <h2>CONTACTS</h2>
+            <p><b>Natalia Trehubenko</b></p>
             <p>(098)-752-80-50</p>
             <p>nataly.111.0479@gmail.com</p>
             <p>Kharkiv, Ukraine</p>
