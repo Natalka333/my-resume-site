@@ -12,9 +12,10 @@ const Contacts = () => {
             <a href="https://github.com/Natalka333" target="_blank" rel="noopener noreferrer"><FaGithub /> GitHub</a>
 
             <a href="https://t.me/Nata04666" target="_blank" rel="noopener noreferrer"><FaTelegram /> Telegram</a>
-            <a href="https://www.linkedin.com/in/nataly-trehubenko-266520287/" target="_blank" rel="noopener noreferrer"><FaLinkedin /> LinkedIn</a>
+            <a href="https://www.linkedin.com/in/natalia-trehubenko-266520287/" target="_blank" rel="noopener noreferrer"><FaLinkedin /> LinkedIn</a>
         </div>
     )
 }
 
 export default Contacts
+
