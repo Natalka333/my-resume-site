@@ -5,7 +5,7 @@ const Languages = () => {
         <div>
             <h2>LANGUAGES</h2>
             <ul className={css.languages}>
-                <li>English - Upper-Intermediate</li>
+                <li>English - Intermediate</li>
                 <li>Ukrainian-Native</li>
                 <li>Russian-Native</li>
             </ul>
